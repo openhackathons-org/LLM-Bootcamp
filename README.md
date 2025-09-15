@@ -24,7 +24,7 @@ The tools and frameworks used in the Bootcamp material are as follows:
 
 ## Tutorial duration
 
-The total Bootcamp material would take approximately 3 hours and 30 minutes, while the challenge part is expected to be completed within 6 hours.
+The Bootcamp material would take approximately 3 hours and 30 minutes, while the challenge part is expected to be completed within 6 hours.
 
 
 ## Deploying the Bootcamp Material
