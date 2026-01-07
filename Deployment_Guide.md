@@ -1,6 +1,6 @@
-# NeMo-Challenge-Bootcamp
+# LLM-Bootcamp
 
-The NeMo Challenge Bootcamp is designed from a real-world perspective, following the data processing, development, and deployment pipeline paradigm. Attendees walk through the workflow of preprocessing a multi-turn conversational dataset for the summarization task and fine-tune the dataset on SOTA LLM using NeMo-Run. Attendees will also learn to optimize the fine-tuned model and apply prompt engineering techniques to solve complex real-world tasks. Furthermore, we introduced an AI Assistant customer care use case challenge to test attendees' understanding of the material and solidify their experience in the Text Generation domain.
+The Large Language Model (LLM) Bootcamp is designed from a real-world perspective, following the data processing, development, and deployment pipeline paradigm. Attendees walk through the workflow of preprocessing a multi-turn conversational dataset for the summarization task and fine-tune the dataset on SOTA LLM using NeMo-Run. Attendees will also learn to optimize the fine-tuned model and apply prompt engineering techniques to solve complex real-world tasks. Furthermore, we introduced an AI Assistant customer care use case challenge to test attendees' understanding of the material and solidify their experience in the Text Generation domain.
 
 ## Deploying the Labs
 
@@ -26,7 +26,7 @@ You can deploy this material using Singularity and Docker containers. Please ref
 
 To run the Labs, build a Docker container by following these steps:  
 
-- Open a terminal window and navigate to the directory where `Dockerfile` file is located (e.g. `cd ~/NeMo-Challenge-Bootcamp`)
+- Open a terminal window and navigate to the directory where `Dockerfile` file is located (e.g. `cd ~/LLM-Bootcamp`)
 - To build the docker container, run : `sudo docker build -f Dockerfile --network=host -t <imagename>:<tagnumber> .`, for instance: 
 
 
