@@ -15,7 +15,7 @@
 
 
 # Select Base Image 
-FROM nvcr.io/nvidia/nemo:dev
+FROM nvcr.io/nvidia/nemo:26.04.00
 
 
 # Pip install.
